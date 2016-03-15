@@ -18,6 +18,6 @@ Assignment 2 : [Document][] : [Document MarkDown][] : [Slides][] : [Slides MarkD
 [Document]: https://danielkdimitrov.github.io/asmt-2/
 [Document MarkDown]: https://github.com/danielkdimitrov/asmt-2/blob/gh-pages/presentation_base.md
 [Slides]: https://danielkdimitrov.github.io/asmt-2-presentation/
-[Slides MarkDown]: https://github.com/danielkdimitrov/asmt-2-presentation/blob/gh-pages/index.md
+[Slides MarkDown]: https://github.com/danielkdimitrov/asmt-2-presentation/blob/gh-pages/presentation.md
 [Repository Document]: https://github.com/danielkdimitrov/asmt-2
 [Repository Slides]: https://github.com/danielkdimitrov/asmt-2-presentation
