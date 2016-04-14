@@ -12,7 +12,7 @@ Assignment 2 : [Document][] : [Document MarkDown][] : [Slides][] : [Slides MarkD
 
 ------------------------
 
-Assignment 3 : [Repository][] : [Python File][]
+Assignment 3 : [Repository][]
 
 ------------------------
 
@@ -27,4 +27,3 @@ Assignment 3 : [Repository][] : [Python File][]
 [Repository Document]: https://github.com/danielkdimitrov/asmt-2
 [Repository Slides]: https://github.com/danielkdimitrov/asmt-2-presentation
 [Repository]: https://github.com/danielkdimitrov/Third_Assignment
-[Python File]:https://github.com/danielkdimitrov/Third_Assignment/Third_Assignment.ipynb
