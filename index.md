@@ -12,6 +12,11 @@ Assignment 2 : [Document][] : [Document MarkDown][] : [Slides][] : [Slides MarkD
 
 ------------------------
 
+Assignment 3 : [Repository][] : [Python File][]
+
+------------------------
+
+
 [CV]: http://danielkdimitrov.github.io/asmt-1/
 [CV Markdown]: https://github.com/danielkdimitrov/asmt-1/blob/gh-pages/Daniel_Dimitrov_CV.md
 [CV Repository]: https://github.com/danielkdimitrov/asmt-1
@@ -21,3 +26,5 @@ Assignment 2 : [Document][] : [Document MarkDown][] : [Slides][] : [Slides MarkD
 [Slides MarkDown]: https://github.com/danielkdimitrov/asmt-2-presentation/blob/gh-pages/presentation.md
 [Repository Document]: https://github.com/danielkdimitrov/asmt-2
 [Repository Slides]: https://github.com/danielkdimitrov/asmt-2-presentation
+[Repository]: https://github.com/ danielkdimitrov/Third_Assignment
+[Python File]:https://github.com/danielkdimitrov/Third_Assignment/Third_Assignment.ipynb
