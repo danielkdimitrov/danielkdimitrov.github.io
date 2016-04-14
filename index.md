@@ -26,5 +26,5 @@ Assignment 3 : [Repository][] : [Python File][]
 [Slides MarkDown]: https://github.com/danielkdimitrov/asmt-2-presentation/blob/gh-pages/presentation.md
 [Repository Document]: https://github.com/danielkdimitrov/asmt-2
 [Repository Slides]: https://github.com/danielkdimitrov/asmt-2-presentation
-[Repository]: https://github.com/ danielkdimitrov/Third_Assignment
+[Repository]: https://github.com/danielkdimitrov/Third_Assignment
 [Python File]:https://github.com/danielkdimitrov/Third_Assignment/Third_Assignment.ipynb
