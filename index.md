@@ -12,7 +12,7 @@ Assignment 2 : [Document][] : [Document MarkDown][] : [Slides][] : [Slides MarkD
 
 ------------------------
 
-Assignment 3 : [Repository][]
+Assignment 3 : [Repository][] : [Final Output in HTML][]   
 
 ------------------------
 
@@ -27,3 +27,4 @@ Assignment 3 : [Repository][]
 [Repository Document]: https://github.com/danielkdimitrov/asmt-2
 [Repository Slides]: https://github.com/danielkdimitrov/asmt-2-presentation
 [Repository]: https://github.com/danielkdimitrov/Third_Assignment
+[Final Output in HTML]: https://danielkdimitrov.github.io/Third_AssignmentHTML/
