@@ -221,16 +221,16 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: working papers
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _code
   - scope:
       path: ""
-      type: portfolio
+      type: code
     values:
       layout: single
       author_profile: true
