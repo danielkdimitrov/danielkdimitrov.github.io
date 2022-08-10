@@ -1,7 +1,7 @@
 ---
 title: "Intergenerational Risk Sharing with Market Liquidity Risk"
 collection: publications
-permalink: /publication/irsLiq
+permalink: /publication/2015-10-01-paper-title-number-2
 excerpt: 'This paper examines the optimal allocation of risk across generations whose savings mix is subject to illiquidity in the form of uncertain trading costs. We use a stylized two-period OLG framework, where each generation makes a portfolio allocation decision for retirement, and show that illiquidity reduces the range of transferable shocks between generations and thus lowers the benefits of risk-sharing. Higher illiquidity then may justify higher levels of risk sharing to compensate for the trading friction. We still find that a contingent transfers policy based on a reasonably parametrized savings portfolio with liquid and illiquid assets increases aggregate welfare.'
 paperurl: '[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4084778)'
 citation: 'Dimitrov, Daniel (2022). &quot;Intergenerational Risk Sharing with Market Liquidity Risk.&quot; <i>Tinbergen Institute Discussion Paper 2022-028/V</i>. 1(2).'
