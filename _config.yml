@@ -215,12 +215,12 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _blog posts
+  # _posts
   - scope:
       path: ""
       type: code
     values:
-      layout: blog posts
+      layout: posts
       author_profile: true
       share: true
       comment: true
