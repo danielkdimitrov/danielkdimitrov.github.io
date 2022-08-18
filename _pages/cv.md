@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Candidate, Department of Macroeconomics, 2022 (expected)
+* Research Qaulification, Tinbergen Institute, 2021 
+* M.Sc., Econometrics and Mathematical Economics, Tilburg University, 2017
+* M.Sc., Otto-von-Guericke University, Magdeburg, 2009
+* B.Sc., Otto-von-Guericke University, Magdeburg, 2006   
 
 Work experience
 ======
@@ -27,14 +29,19 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+Professional Qualification
+======
+* Passed CFA Charter's exam level I, II and III
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational and Statistical:  
+  * Python (numpy, scipy, sympy, pandas, plotly etc.), MATLAB, R, Stata, EViews, JMP
+  * Financial Analytics: Bloomberg, Thompson Reuters, FactSet Workstation
+  * Database: SQL 
+  * Workflow: Git
+* Languages
+  * Eglish (fluent); German (fluent); Bulgarian (native)
 
 Publications
 ======
@@ -54,6 +61,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
