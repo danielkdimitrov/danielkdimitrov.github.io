@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate, Department of Macroeconomics, 2022 (expected)
+* Ph.D., Department of Macroeconomics, 2022
 * Research Qaulification, Tinbergen Institute, 2021 
 * M.Sc., Econometrics and Mathematical Economics, Tilburg University, 2017
 * M.Sc., Otto-von-Guericke University, Magdeburg, 2009
