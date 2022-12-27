@@ -32,7 +32,7 @@ Work experience
   
 Professional Qualifications
 ======
-* Passed CFA Charter's exam level I, II and III
+* Passed CFA Charter's exam levels I, II and III
 
 Skills
 ======
