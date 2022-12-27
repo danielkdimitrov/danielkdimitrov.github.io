@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Download full CV [here](https://github.com/danielkdimitrov/danielkdimitrov.github.io/blob/master/DanielDimitrovCV2022.pdf)
+
 Education
 ======
 * Ph.D., Department of Macroeconomics, 2022
@@ -29,7 +30,7 @@ Work experience
 * 2009 - 2018 : Client Services Manager - FactSet / FinAlaytica
   * Client risk consulting; product implementation; research and development; proof-of-concept execution  
   
-Professional Qualification
+Professional Qualifications
 ======
 * Passed CFA Charter's exam level I, II and III
 
