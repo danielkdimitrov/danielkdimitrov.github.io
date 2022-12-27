@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download full CV [here](https://github.com/danielkdimitrov/danielkdimitrov.github.io/blob/master/DanielDimitrovCV2022.pdf)
+Download the full CV [here](https://github.com/danielkdimitrov/danielkdimitrov.github.io/blob/master/DanielDimitrovCV2022.pdf)
 
 Education
 ======
