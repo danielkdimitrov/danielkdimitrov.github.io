@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Download full CV [here](https://github.com/danielkdimitrov/danielkdimitrov.github.io/blob/master/DanielDimitrovCV2022.pdf)
 Education
 ======
 * Ph.D., Department of Macroeconomics, 2022
+  * PhD Thesis : [Three Essays on the Allocation of Risk](https://dare.uva.nl/search?identifier=8a24acd8-fc8d-4785-b98d-26d802aaa699)   
+  * Supervisors: Prof. Roel Beetsma, Prof. Sweder van Wijnbergen  
 * Research Qaulification, Tinbergen Institute, 2021 
 * M.Sc., Econometrics and Mathematical Economics, Tilburg University, 2017
 * M.Sc., Otto-von-Guericke University, Magdeburg, 2009
@@ -19,14 +22,12 @@ Education
 
 Work experience
 ======
-* Since 2018: PhD Candidate and Teaching Assistant 
-  * University of Amsterdam
+* Since 2018: PhD Candidate and Teaching Assistant - University of Amsterdam
   * Supervisors: Prof. Roel Beetsma, Prof. Sweder van Wijnbergen
   * Teaching: Fiscal and Monetary Policy, Macroeconomics I, Mathematics
 
-* 2009 - 2018 : Client Services Manager
-  * FactSet / FinAlaytica
-    * Client risk consulting; product implementation; research and development; proof-of-concept execution  
+* 2009 - 2018 : Client Services Manager - FactSet / FinAlaytica
+  * Client risk consulting; product implementation; research and development; proof-of-concept execution  
   
 Professional Qualification
 ======
