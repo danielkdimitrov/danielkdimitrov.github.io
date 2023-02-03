@@ -22,7 +22,7 @@ You can find [here](https://github.com/danielkdimitrov/jmp/blob/main/DanielDimit
 
 + Macroprudential Regulation: A Risk Management Approach. (joint with Sweder wan Wijnbergen)  [link](https://github.com/danielkdimitrov/jmp/blob/main/DanielDimitrov_Systemic_Risk_JMP_Jan2023.pdf)
 
-## Ongoint projects
+## Ongoing projects
 
 + Strategic Asset Allocation with Private Assets: Untangling Illiquidity.
 
