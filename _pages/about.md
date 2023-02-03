@@ -16,7 +16,7 @@ You can find [here](https://github.com/danielkdimitrov/jmp/blob/main/DanielDimit
 
 ## Workikg papers 
  
-+ Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the Dutch Financial Sector. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122258), [slides](https://github.com/danielkdimitrov/systemicRisk/blob/main/Slides_SystemicRiskNL.pdf)
++ Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the Dutch Financial Sector. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122258), [slides](https://github.com/danielkdimitrov/systemicRisk/blob/7ae74f951eae0dc1b1815b6890e72864e79b4f8d/Slides_SystemicRiskNL.pdf)
 
 + Intergenerational Risk Sharing with Market Liquidity Risk. (joint with Sweder wan Wijnbergen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4084778), [slides](https://github.com/danielkdimitrov/irs/blob/main/Intergenerational_Risk_Sharing___Slides__TI_.pdf)
 
