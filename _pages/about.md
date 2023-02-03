@@ -16,15 +16,15 @@ You can find [here](https://github.com/danielkdimitrov/jmp/blob/main/DanielDimit
 
 ## Workikg papers 
  
-+ Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the Dutch Financial Sector. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122258)
++ Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the Dutch Financial Sector. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122258), [slides](https://github.com/danielkdimitrov/systemicRisk/blob/main/Slides_SystemicRiskNL.pdf)
 
-+ Intergenerational Risk Sharing with Market Liquidity Risk. (joint with Sweder wan Wijnbergen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4084778)
++ Intergenerational Risk Sharing with Market Liquidity Risk. (joint with Sweder wan Wijnbergen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4084778), [slides](https://github.com/danielkdimitrov/irs/blob/main/Intergenerational_Risk_Sharing___Slides__TI_.pdf)
 
-+ Macroprudential Regulation: A Risk Management Approach. (joint with Sweder wan Wijnbergen)  [link](https://github.com/danielkdimitrov/jmp/blob/main/DanielDimitrov_Systemic_Risk_JMP_Jan2023.pdf)
++ Macroprudential Regulation: A Risk Management Approach. (joint with Sweder wan Wijnbergen)  [link](https://github.com/danielkdimitrov/jmp/blob/main/DanielDimitrov_Systemic_Risk_JMP_Jan2023.pdf), [slides](https://github.com/danielkdimitrov/jmp/blob/main/SlideDeck_OptBuffers.pdf), [code](https://github.com/danielkdimitrov/systemicRiskBuffers)
 
 ## Ongoing projects
 
-+ Strategic Asset Allocation with Private Assets: Untangling Illiquidity.
++ Strategic Asset Allocation with Private Assets: Untangling Illiquidity. [slides](https://github.com/danielkdimitrov/portfolioChoiceIlliq/blob/main/Slides_Portfolio_Choice_with_Liquidity.pdf)
 
 	*We use a dynamic portfolio choice model to approach the problem of optimal asset allocation with illiquid assets. Illiquidity comes in the form of uncertain trading potential and the inability to adjust the investor's allocation to strategic targets. Along with the traditional asset mix of bonds and equity, we also allow investments in private asset classes such as hedge funds, private equity, direct real estate, and infrastructure. Despite the endemic illiquidity of these asset classes, we illustrate quantitatively that they improve significantly long-term investors' welfare by providing diversification and return potential.* 
 
