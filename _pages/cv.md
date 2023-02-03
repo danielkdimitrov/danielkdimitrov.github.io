@@ -23,9 +23,9 @@ Education
 
 Work experience
 ======
-* Since 2018: PhD Candidate and Teaching Assistant - University of Amsterdam
-  * Supervisors: Prof. Roel Beetsma, Prof. Sweder van Wijnbergen
-  * Teaching: Fiscal and Monetary Policy, Macroeconomics I, Mathematics
+* Since 2018: Teaching Assistant 
+  * University of Amsterdam: Fiscal and Monetary Policy, Macroeconomics I, Mathematics, BSc. Thesis supervision
+  * Vrije Universiteit: BSc. Thesis supervision 
 
 * 2009 - 2018 : Client Services Manager - FactSet / FinAlaytica
   * Client risk consulting; product implementation; research and development; proof-of-concept execution  
