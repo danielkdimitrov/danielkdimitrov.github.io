@@ -23,7 +23,8 @@ Education
 
 Work experience
 ======
-* Since 2018: Teaching Assistant 
+* 2022: Visiting Researcher at DNB
+* 2018 - 2022: Teaching Assistant 
   * University of Amsterdam: Fiscal and Monetary Policy, Macroeconomics I, Mathematics, BSc. Thesis supervision
   * Vrije Universiteit: BSc. Thesis supervision 
 
@@ -44,7 +45,7 @@ Skills
 * Languages
   * Eglish (fluent); German (fluent); Bulgarian (native)
 
-Publications
+Wroking papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
