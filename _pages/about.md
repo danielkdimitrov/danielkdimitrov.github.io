@@ -20,7 +20,7 @@ You can find [here](https://github.com/danielkdimitrov/jmp/blob/main/DanielDimit
 
 + Intergenerational Risk Sharing with Market Liquidity Risk. (joint with Sweder wan Wijnbergen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4084778), [slides](https://github.com/danielkdimitrov/irs/blob/main/Intergenerational_Risk_Sharing___Slides__TI_.pdf)
 
-+ Macroprudential Regulation: A Risk Management Approach. (joint with Sweder wan Wijnbergen)  [link](https://github.com/danielkdimitrov/jmp/blob/main/DanielDimitrov_Systemic_Risk_JMP_Jan2023.pdf), [slides](https://github.com/danielkdimitrov/jmp/blob/main/SlideDeck_OptBuffers.pdf), [code](https://github.com/danielkdimitrov/systemicRiskBuffers)
++ Macroprudential Regulation: A Risk Management Approach. (joint with Sweder wan Wijnbergen)  [link](https://www.dnb.nl/publicaties/publicaties-onderzoek/working-paper-2023/765-macroprudential-regulation-a-risk-management-approach/), [code](https://github.com/danielkdimitrov/systemicRiskBuffers)
 
 ## Ongoing projects
 
