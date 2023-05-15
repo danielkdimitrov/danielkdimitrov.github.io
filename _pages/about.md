@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD graduate from the University of Amsterdam with research interest in the area of macro-finance, asset pricing, portfolio allocation and risk management. You can contact me at [daniel.k.dimitrov@gmail.com](mailto:daniel.k.dimitrov@gmail.com). 
+I'm a financial economist and researcher at [De Nederlandsche Bank](https://www.dnb.nl/)'s Financial Markets division. My research interests cover macro-finance, asset pricing, portfolio allocation, and risk management. You can contact me at [daniel.k.dimitrov@gmail.com](mailto:daniel.k.dimitrov@gmail.com). 
 
-My [PhD thesis](https://dare.uva.nl/search?identifier=8a24acd8-fc8d-4785-b98d-26d802aaa699) "Three essays on the optimal allocation of risk" discusses topics of illiquidity, intergenerational risk sharing and builds an approach for the measurement of systemic risk for financial institutions. My PhD supervisors were Prof. Roel Beetsma and Prof. Sweder van Wijnbergen.    
+This page shares my ongoing research projects. The views expressed here do not necessarily correspond to those of the central bank.   
+
+## Ph.D. Thesis
+
+I'm a recent Ph.D. graduate from the University of Amsterdam, supervised by Prof. Roel Beetsma and Prof. Sweder van Wijnbergen. My Ph.D. thesis ["Three essays on the optimal allocation of risk"]](https://dare.uva.nl/search?identifier=8a24acd8-fc8d-4785-b98d-26d802aaa699) discusses asset allocation, illiquidity, intergenerational risk sharing, and systemic risk for financial institutions.     
 
 
-## Workikg papers 
-
+## Working papers 
 
 + Macroprudential Regulation: A Risk Management Approach. (joint with Sweder wan Wijnbergen)  [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349908), [code](https://github.com/danielkdimitrov/systemicRiskBuffers)
 
