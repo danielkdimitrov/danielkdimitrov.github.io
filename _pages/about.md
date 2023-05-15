@@ -14,7 +14,7 @@ This page shares my ongoing research projects. The views expressed here do not n
 
 ## Ph.D. Thesis
 
-I'm a recent Ph.D. graduate from the University of Amsterdam, supervised by Prof. Roel Beetsma and Prof. Sweder van Wijnbergen. My Ph.D. thesis ["Three essays on the optimal allocation of risk"]](https://dare.uva.nl/search?identifier=8a24acd8-fc8d-4785-b98d-26d802aaa699) discusses asset allocation, illiquidity, intergenerational risk sharing, and systemic risk for financial institutions.     
+I'm a recent Ph.D. graduate from the University of Amsterdam, supervised by Prof. Roel Beetsma and Prof. Sweder van Wijnbergen. My Ph.D. thesis ["Three essays on the optimal allocation of risk"](https://dare.uva.nl/search?identifier=8a24acd8-fc8d-4785-b98d-26d802aaa699) discusses asset allocation, illiquidity, intergenerational risk sharing, and systemic risk for financial institutions.     
 
 
 ## Working papers 
