@@ -9,7 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Download the full CV [here](https://github.com/danielkdimitrov/danielkdimitrov.github.io/blob/master/DanielDimitrovCV2022.pdf)
+Work experience
+======
+* 2023: Financial Economist at De Nederlandsche Bank
+  * Researcher
+  * Part of Financial Markets/Risk Management team      
+* 2018 - 2022: Teaching Assistant 
+  * University of Amsterdam: Fiscal and Monetary Policy, Macroeconomics I, Mathematics, BSc. Thesis supervision
+  * Vrije Universiteit: BSc. Thesis supervision 
+
+* 2009 - 2018 : Risk Product Manager - FactSet / FinAlaytica
+  * Consulting; product implementation; research and development; proof-of-concept execution  
 
 Education
 ======
@@ -20,30 +30,10 @@ Education
 * M.Sc., Econometrics and Mathematical Economics, Tilburg University, 2017
 * M.Sc., Otto-von-Guericke University, Magdeburg, 2009
 * B.Sc., Otto-von-Guericke University, Magdeburg, 2006   
-
-Work experience
-======
-* 2022: Visiting Researcher at DNB
-* 2018 - 2022: Teaching Assistant 
-  * University of Amsterdam: Fiscal and Monetary Policy, Macroeconomics I, Mathematics, BSc. Thesis supervision
-  * Vrije Universiteit: BSc. Thesis supervision 
-
-* 2009 - 2018 : Client Services Manager - FactSet / FinAlaytica
-  * Client risk consulting; product implementation; research and development; proof-of-concept execution  
   
 Professional Qualifications
 ======
-* Passed CFA Charter's exam levels I, II and III
-
-Skills
-======
-* Computational and Statistical:  
-  * Python (numpy, scipy, sympy, pandas, plotly etc.), MATLAB, R, Stata, EViews, JMP
-  * Financial Analytics: Bloomberg, Thompson Reuters, FactSet Workstation
-  * Database: SQL 
-  * Workflow: Git
-* Languages
-  * Eglish (fluent); German (fluent); Bulgarian (native)
+* Covered CFA Charter exams I, II and III
 
 Wroking papers
 ======
