@@ -14,16 +14,16 @@ This page shares my ongoing research projects. The views expressed here do not n
 
 ## Working papers, 2023-24 
 
-+ Centra Bank Capital and Shareholder Relationship (w/ M. Bonetti, D. Broeders, D. Chen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4788392)
-  	*Although central banks cannot default as long as they have the rght to issue legal tender, capital adequacy is important to be a credble, independent monetary authority. We study the capital polcy that the central bank and the monetary authority may negotiate on, applyng option pricing modelling approaches.*
++ Centra Bank Capital and Shareholder Relationship (with M. Bonetti, D. Broeders, D. Chen). [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4788392)
+	* *Although central banks cannot default as long as they have the rght to issue legal tender, capital adequacy is important to be a credble, independent and thus effective monetary policy. We study the capital polcy that the central bank and the fiscal authority may negotiate on, applyng option pricing modelling approaches.*
 
-+ Macroprudential Regulation: A Risk Management Approach. (joint with Sweder wan Wijnbergen)  [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349908), [code](https://github.com/danielkdimitrov/systemicRiskBuffers)
++ Macroprudential Regulation: A Risk Management Approach. (with Sweder wan Wijnbergen). [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349908), [code](https://github.com/danielkdimitrov/systemicRiskBuffers)
 
-+ Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the European Banking Sector. (joint with Sweder wan Wijnbergen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382033), [slides](https://github.com/danielkdimitrov/slideDecks/blob/main/DanielDmitrov_SystemicRisk_2023_ESCB_FS.pdf)
++ Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the European Banking Sector. (with Sweder wan Wijnbergen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382033), [slides](https://github.com/danielkdimitrov/slideDecks/blob/main/DanielDmitrov_SystemicRisk_2023_ESCB_FS.pdf)
 
 + Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the Dutch Financial Sector. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122258), [slides](https://github.com/danielkdimitrov/systemicRisk/blob/7ae74f951eae0dc1b1815b6890e72864e79b4f8d/Slides_SystemicRiskNL.pdf)
 
-+ Intergenerational Risk Sharing with Market Liquidity Risk. (joint with Sweder wan Wijnbergen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4084778), [slides](https://github.com/danielkdimitrov/irs/blob/main/Intergenerational_Risk_Sharing___Slides__TI_.pdf)
++ Intergenerational Risk Sharing with Market Liquidity Risk. (with Sweder wan Wijnbergen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4084778), [slides](https://github.com/danielkdimitrov/irs/blob/main/Intergenerational_Risk_Sharing___Slides__TI_.pdf)
 
 ## Ongoing projects
 
