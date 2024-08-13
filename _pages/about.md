@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal page! I'm a financial researcher and risk manager at [De Nederlandsche Bank](https://www.dnb.nl/)'s Financial Markets division. My research covers macro-finance, asset pricing, portfolio allocation, and risk management. I also teach part-time at the University of Amsterdam.
+👋 Welcome to my personal page! I'm a financial researcher and risk manager at [De Nederlandsche Bank](https://www.dnb.nl/)'s Financial Markets division. My research covers macro-finance, asset pricing, financial stability, and risk management. I also teach part-time at the University of Amsterdam.
 
 📧 You can reach me at [daniel.k.dimitrov@gmail.com](mailto:daniel.k.dimitrov@gmail.com).
 
