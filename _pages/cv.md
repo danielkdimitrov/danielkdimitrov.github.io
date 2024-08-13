@@ -9,90 +9,110 @@ redirect_from:
 
 {% include base_path %}
 
-# Daniel K Dimitrov
+# **Daniel K Dimitrov**
 
-### ```De Nederlandsche Bank, since 2023``` 
+---
 
-- Financial Economist at Financial Markets
+## 🏛️ Professional Experience
 
-	- Interest rate risk monitoring within the central bank’s balance sheet
+### **De Nederlandsche Bank** _(since 2023)_ 
+**Financial Economist at Financial Markets**
 
-	- Researcher in the field of central bank capital, systemic risk, asset allocation
+- Interest rate risk monitoring within the central bank’s balance sheet
+- Researcher in the field of central bank capital, systemic risk, asset allocation
 
-### ```University of Amsterdam, since 2019```
+### **University of Amsterdam** _(since 2019)_
+**Course Tutor**
 
-- Course Tutor: Fiscal and Monetary Policy (2019, 2020, 2021, 2022); Macroeconomics I (2022); Mathematics I (2021); Bachelor thesis supervision (2019, 2020, 2021, 2022, 2024)
+- Fiscal and Monetary Policy (2019, 2020, 2021, 2022)
+- Macroeconomics I (2022)
+- Mathematics I (2021)
+- Bachelor thesis supervision (2019, 2020, 2021, 2022, 2024)
 
-### ```FactSet / FinAnalytica Inc., 2009 – 2018``` 
+### **FactSet / FinAnalytica Inc.** _(2009 – 2018)_ 
+**Quantitative Analyst and Product Specialist**
 
-- Quantitative Analyst and Product Specialist 
+---
 
-## EDUCATION
+## 🎓 Education
 
-### ```University of Amsterdam, Mar 18 – Nov 22```
+### **University of Amsterdam** _(Mar 2018 – Nov 2022)_
+**PhD, Department of Macroeconomics**
 
-- PhD, Department of Macroeconomics: Three Essays on the Optimal Allocation of Risk with Illiquidity, Intergenerational Sharing and Systemic Institutions
+- Three Essays on the Optimal Allocation of Risk with Illiquidity, Intergenerational Sharing and Systemic Institutions
 
-### ```Tinbergen Institute, June 2018 – April 2021```
+### **Tinbergen Institute** _(June 2018 – April 2021)_
+**Research Qualification (MPhil Level)**
 
-- Research Qualification (MPhil Level): Specialization in Advanced Econometrics (with additional courses in Asset Pricing, Corporate Finance Theory, Macroeconomics with Financial Frictions)
+- Specialization in Advanced Econometrics (with additional courses in Asset Pricing, Corporate Finance Theory, Macroeconomics with Financial Frictions)
 
-### ```Tilburg University, Oct 2015 – Feb 2017```
+### **Tilburg University** _(Oct 2015 – Feb 2017)_
+**MSc. Econometrics and Mathematical Economics**
 
-- MSc. Econometrics and Mathematical Economics
+### **Otto-von-Guericke University, Magdeburg** _(Oct 2006 – Sept 2009)_
+**M.Sc. in Economics and Finance**
 
-### ```Otto-von-Guericke University, Magdeburg, Oct 06 – Sept 09```
+### **Otto-von-Guericke University, Magdeburg** _(Oct 2003 – Sep 2006)_
+**B.Sc. in Management and Economics**
 
-- M.Sc. in Economics and Finance
-
-### Otto-von-Guericke University, Magdeburg, 0ct 03 – Sep 06```
-
-- B.Sc. in Management and Economics
-
-### Summer/Winter Schools
+### **Summer/Winter Schools**
 
 - **_2021 Stockholm Business School_** , Market Microstructure summer school with Albert Menkveld
+- **_2019 University of Chicago_**, Six-week Summer School in Open Source Economics with Python (Dynamic Programming, Empirical Asset Pricing, Heterogeneous Agent Models, Machine Learning) with lectures by Lars Hansen, Anthony Smith, etc.
+- **_2019 University of Chicago_**, _Summer School in Dynamic Structural Econometrics_ with John Rust
+- **_2019, 2020 University of Amsterdam_**, _Winter School in Mathematical Finance_
 
-- § 2019 University of Chicago, six week Summer School in Open Source Economics with Python (Dynamic Programming, Empirical
-Asset Pricing, Heterogeneous Agent Models, Machine Learning) with lectures by Lars Hansen, Anthony Smith, etc.
-- **_2019 University of Chicago,_** _Summer School in Dynamic Structural Econometrics_ with John Rust
+---
 
-- **_2019, 2020 University of Amsterdam,_** _Winter School in Mathematical Finance_
+## 📜 Professional Qualifications
 
-## Professional Qualifications
+- **CFA Institute** exams level I, II, and III
 
-- *_CFA Institute_* examls level I, II, and III 
+---
 
+## 💻 Computer Skills
 
-## COMPUTER SKILLS
+- **Computational and Statistical**: Python (_numpy, scipy, sympy, pandas, plotly_), MATLAB, R, Stata, EViews
+- **Financial Analytics**: Bloomberg, Thompson Reuters, FactSet Workstation
+- **Database**: SQL
+- **Workflow**: Git, LaTeX, Markdown
 
-_Computational and Statistical_ : Python ( _numpy, scipy, sympy, pandas, plotly_ etc.) MATLAB, R, Stata, EViews
+---
 
-_Financial Analytics_ : Bloomberg, Thompson Reuters, FactSet Workstation
+## 🌍 Languages
 
-_Database_ : SQL; _Workflow_ : Git, LaTex, Markdown^
+- **English** – Fluent
+- **German** – Fluent
+- **Dutch** – Basic
+- **Bulgarian** – Native
 
-**LANGUAGES**
-English – fluent; German – fluent; Dutch - basic; Bulgarian – native;
+---
 
+## 🔬 Ongoing Research Projects
 
-## ONGOING RESEARCH PROJECTS
-
-- Climate-linked securities (w/ D. Broeders & N. Verhoeven )
+- Climate-linked securities (w/ D. Broeders & N. Verhoeven)
 - Climate risk and ambiguity: stress-testing the financial sector (w/ Sw. van Wijnbergen)
 - Expected Equal Impact for Capital Buffers Calibration: Market-Based Approach (w/ Sw. van Wijnbergen)
-- Financial Fragility Measurement with Endogenous Group Assignment (w/J. Kakes & M.Bun)
-- Untangling Illquidity: Strategic Asset Allocation with Private Assets
+- Financial Fragility Measurement with Endogenous Group Assignment (w/J. Kakes & M. Bun)
+- Untangling Illiquidity: Strategic Asset Allocation with Private Assets
 
-## Seminar Discussant
+---
 
-- VU Amsterdam, Empirical Asset Pricing Meeting 2023 (Asset Allocation and Returns in the Portfolios of the Wealthy, Cynthia Mei Balloch et al.)
-- Central Bank of Ireland, Conference on Financial stability policies in a changing lending landscape 202 3 (Non-bank lending during crises, Inaki Aldasoro et al.)
+## 🎤 Seminar Discussant
 
-## Wroking papers
+- **VU Amsterdam**, Empirical Asset Pricing Meeting 2023 (Asset Allocation and Returns in the Portfolios of the Wealthy, Cynthia Mei Balloch et al.)
+- **Central Bank of Ireland**, Conference on Financial Stability Policies in a Changing Lending Landscape 2023 (Non-bank lending during crises, Inaki Aldasoro et al.)
 
-  <ul>{% for post in site.publications %}
+---
+
+## 📄 Working Papers
+
+{% if site.publications.size > 0 %}
+<ul>
+  {% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
+  {% endfor %}
+</ul>
+{% else %}
+<p>No working papers available at the moment.</p>
+{% endif %}
