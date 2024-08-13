@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fnancial researcher and risk manager at [De Nederlandsche Bank](https://www.dnb.nl/)'s Financial Markets division. My research covers areas of macro-finance, asset pricing, portfolio allocation, and risk management. You can contact me at [daniel.k.dimitrov@gmail.com](mailto:daniel.k.dimitrov@gmail.com). 
+I'm a fnancial researcher and risk manager at [De Nederlandsche Bank](https://www.dnb.nl/)'s Financial Markets division. My research covers areas of macro-finance, asset pricing, portfolio allocation, and risk management. I also teach part time at the University of Amsterdam. You can contact me at [daniel.k.dimitrov@gmail.com](mailto:daniel.k.dimitrov@gmail.com). 
 
 This page shares my ongoing research projects. The views expressed here do not necessarily correspond to those of the central bank.   
 
 ## Working papers, 2023-24 
 
 + Centra Bank Capital and Shareholder Relationship (with M. Bonetti, D. Broeders, D. Chen). [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4788392)
-	* *Although central banks cannot default as long as they have the rght to issue legal tender, capital adequacy is important to be a credble, independent and thus effective monetary policy. We study the capital polcy that the central bank and the fiscal authority may negotiate on, applyng option pricing modelling approaches.*
 
 + Macroprudential Regulation: A Risk Management Approach. (with Sweder wan Wijnbergen). [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349908), [code](https://github.com/danielkdimitrov/systemicRiskBuffers)
 
