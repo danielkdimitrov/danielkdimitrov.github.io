@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# **Daniel K Dimitrov**
-
 👋 Welcome to my personal page! I'm a financial researcher and risk manager at [De Nederlandsche Bank](https://www.dnb.nl/)'s Financial Markets division. My research covers macro-finance, asset pricing, portfolio allocation, and risk management. I also teach part-time at the University of Amsterdam.
 
 📧 You can reach me at [daniel.k.dimitrov@gmail.com](mailto:daniel.k.dimitrov@gmail.com).
@@ -30,12 +28,15 @@ redirect_from:
 
 ## 🚀 Ongoing Projects
 
-- **Strategic Asset Allocation with Private Assets: Untangling Illiquidity** 
+- **Strategic Asset Allocation with Private Assets: Untangling Illiquidity**. [Slides](https://github.com/danielkdimitrov/portfolioChoiceIlliq/blob/main/Slides_Portfolio_Choice_with_Liquidity.pdf)
 
-  *This paper addresses the asset allocation problem of long-term investors with exposures to illiquid private asset classes (hedge funds, private equity, real estate, infrastructure, etc.). A dynamic portfolio choice model captures the temporal nature of illiquidity, where trading uncertainty hinders the investor from freely adjusting their allocations to the strategic targets. Calibrating the optimization model to analyst-based market expectations, and weighing up the risks of illiquidity against the premia and diversification potential associated with private asset classes, I quantify the welfare impact of illiquidity in investors' asset mix.*
+  *We use a dynamic portfolio choice model to approach the problem of optimal asset allocation with illiquid assets. Illiquidity comes in the form of uncertain trading potential and the inability to adjust the investor's allocation to strategic targets. Along with the traditional asset mix of bonds and equity, we also allow investments in private asset classes such as hedge funds, private equity, direct real estate, and infrastructure. Despite the endemic illiquidity of these asset classes, we illustrate quantitatively that they improve significantly long-term investors' welfare by providing diversification and return potential.*
 
 ---
 
 ## 🎓 Ph.D. Thesis
 
-A graduate from the University of Amsterdam, supervised by Prof. Roel Beetsma and Prof. Sweder van Wijnbergen. My Ph.D. thesis, ["Three essays on the optimal allocation of r
+A graduate from the University of Amsterdam, supervised by Prof. Roel Beetsma and Prof. Sweder van Wijnbergen. My Ph.D. thesis, ["Three essays on the optimal allocation of risk"](https://dare.uva.nl/search?identifier=8a24acd8-fc8d-4785-b98d-26d802aaa699), discusses asset allocation, illiquidity, intergenerational risk sharing, and systemic risk for financial institutions.
+
+---
+
