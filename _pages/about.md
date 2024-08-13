@@ -28,9 +28,9 @@ redirect_from:
 
 ## 🚀 Ongoing Projects
 
-- **Strategic Asset Allocation with Private Assets: Untangling Illiquidity**. [Slides](https://github.com/danielkdimitrov/portfolioChoiceIlliq/blob/main/Slides_Portfolio_Choice_with_Liquidity.pdf)
+- **Strategic Asset Allocation with Private Assets: Untangling Illiquidity**. [Draft available upon request] 
 
-  *We use a dynamic portfolio choice model to approach the problem of optimal asset allocation with illiquid assets. Illiquidity comes in the form of uncertain trading potential and the inability to adjust the investor's allocation to strategic targets. Along with the traditional asset mix of bonds and equity, we also allow investments in private asset classes such as hedge funds, private equity, direct real estate, and infrastructure. Despite the endemic illiquidity of these asset classes, we illustrate quantitatively that they improve significantly long-term investors' welfare by providing diversification and return potential.*
+  *This paper addresses the asset allocation problem of long-term investors with exposures to illiquid private asset classes (hedge funds, private equity, real estate, infrastructure, etc.). A dynamic portfolio choice model captures the temporal nature of illiquidity, where trading uncertainty hinders the investor from freely adjusting their allocations to the strategic targets. Calibrating the optimization model to analyst-based market expectations, and weighing up the risks of illiquidity against the premia and diversification potential associated with private asset classes, I quantify the welfare impact of illiquidity in investors' asset mix.*
 
 ---
 
