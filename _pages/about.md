@@ -8,30 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fnancial researcher and risk manager at [De Nederlandsche Bank](https://www.dnb.nl/)'s Financial Markets division. My research covers areas of macro-finance, asset pricing, portfolio allocation, and risk management. I also teach part time at the University of Amsterdam. You can contact me at [daniel.k.dimitrov@gmail.com](mailto:daniel.k.dimitrov@gmail.com). 
+# **Daniel K Dimitrov**
 
-This page shares my ongoing research projects. The views expressed here do not necessarily correspond to those of the central bank.   
+👋 Welcome to my personal page! I'm a financial researcher and risk manager at [De Nederlandsche Bank](https://www.dnb.nl/)'s Financial Markets division. My research covers macro-finance, asset pricing, portfolio allocation, and risk management. I also teach part-time at the University of Amsterdam.
 
-## Working papers, 2023-24 
+📧 You can reach me at [daniel.k.dimitrov@gmail.com](mailto:daniel.k.dimitrov@gmail.com).
 
-+ Centra Bank Capital and Shareholder Relationship (with M. Bonetti, D. Broeders, D. Chen). [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4788392)
+> _This page shares my ongoing research projects. The views expressed here do not necessarily correspond to those of the central bank._
 
-+ Macroprudential Regulation: A Risk Management Approach. (with Sweder wan Wijnbergen). [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349908), [code](https://github.com/danielkdimitrov/systemicRiskBuffers)
+---
 
-+ Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the European Banking Sector. (with Sweder wan Wijnbergen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382033), [slides](https://github.com/danielkdimitrov/slideDecks/blob/main/DanielDmitrov_SystemicRisk_2023_ESCB_FS.pdf)
+## 📝 Working Papers (2023-24)
 
-+ Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the Dutch Financial Sector. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122258), [slides](https://github.com/danielkdimitrov/systemicRisk/blob/7ae74f951eae0dc1b1815b6890e72864e79b4f8d/Slides_SystemicRiskNL.pdf)
+- **Central Bank Capital and Shareholder Relationship** (with M. Bonetti, D. Broeders, D. Chen). [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4788392)
+- **Macroprudential Regulation: A Risk Management Approach** (with Sweder van Wijnbergen). [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349908), [Code](https://github.com/danielkdimitrov/systemicRiskBuffers)
+- **Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the European Banking Sector** (with Sweder van Wijnbergen). [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382033), [Slides](https://github.com/danielkdimitrov/slideDecks/blob/main/DanielDmitrov_SystemicRisk_2023_ESCB_FS.pdf)
+- **Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the Dutch Financial Sector**. [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4122258), [Slides](https://github.com/danielkdimitrov/systemicRisk/blob/7ae74f951eae0dc1b1815b6890e72864e79b4f8d/Slides_SystemicRiskNL.pdf)
+- **Intergenerational Risk Sharing with Market Liquidity Risk** (with Sweder van Wijnbergen). [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4084778), [Slides](https://github.com/danielkdimitrov/irs/blob/main/Intergenerational_Risk_Sharing___Slides__TI_.pdf)
 
-+ Intergenerational Risk Sharing with Market Liquidity Risk. (with Sweder wan Wijnbergen) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4084778), [slides](https://github.com/danielkdimitrov/irs/blob/main/Intergenerational_Risk_Sharing___Slides__TI_.pdf)
+---
 
-## Ongoing projects
+## 🚀 Ongoing Projects
 
-+ Strategic Asset Allocation with Private Assets: Untangling Illiquidity. [slides](https://github.com/danielkdimitrov/portfolioChoiceIlliq/blob/main/Slides_Portfolio_Choice_with_Liquidity.pdf)
+- **Strategic Asset Allocation with Private Assets: Untangling Illiquidity** 
 
-	*We use a dynamic portfolio choice model to approach the problem of optimal asset allocation with illiquid assets. Illiquidity comes in the form of uncertain trading potential and the inability to adjust the investor's allocation to strategic targets. Along with the traditional asset mix of bonds and equity, we also allow investments in private asset classes such as hedge funds, private equity, direct real estate, and infrastructure. Despite the endemic illiquidity of these asset classes, we illustrate quantitatively that they improve significantly long-term investors' welfare by providing diversification and return potential.*
-  
+  *This paper addresses the asset allocation problem of long-term investors with exposures to illiquid private asset classes (hedge funds, private equity, real estate, infrastructure, etc.). A dynamic portfolio choice model captures the temporal nature of illiquidity, where trading uncertainty hinders the investor from freely adjusting their allocations to the strategic targets. Calibrating the optimization model to analyst-based market expectations, and weighing up the risks of illiquidity against the premia and diversification potential associated with private asset classes, I quantify the welfare impact of illiquidity in investors' asset mix.*
 
-## Ph.D. Thesis
+---
 
-A graduate from the University of Amsterdam, supervised by Prof. Roel Beetsma and Prof. Sweder van Wijnbergen. Ph.D. thesis on ["Three essays on the optimal allocation of risk"](https://dare.uva.nl/search?identifier=8a24acd8-fc8d-4785-b98d-26d802aaa699) discusses asset allocation, illiquidity, intergenerational risk sharing, and systemic risk for financial institutions.     
+## 🎓 Ph.D. Thesis
 
+A graduate from the University of Amsterdam, supervised by Prof. Roel Beetsma and Prof. Sweder van Wijnbergen. My Ph.D. thesis, ["Three essays on the optimal allocation of r
