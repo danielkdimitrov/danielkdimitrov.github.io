@@ -33,7 +33,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4788392)
 
 ## 🚀 Ongoing Projects
 
-- ** Climate-Linked Bonds** (w/ D. Broeders and N. Verhoeven)
+- **Climate-Linked Bonds** (w/ D. Broeders and N. Verhoeven)
 
 	*We argue that climate-linked bonds issued by governments or supranational organisations are critical for transitioning to a net-zero economy. These bonds adjust their pay-off based on climate-related variables such as average land temperature, greenhouse gas concentrations, or water levels. This adjustment mechanism provides investors with an opportunity to hedge against long-term climate risks, while signaling government commitment to early-stage climate action and incentivizing robust climate policies. Furthermore, the price differential between climate-linked and nominal bonds offers insights into market expectations regarding climate risks. In this paper, we propose the concept of climate-linked bonds and present a rationale for their issuance by governments. To support this, we introduce a novel model of climate hedging, outlining the factors affecting supply and demand for climate hedges, and justify the creation of these bonds.*
 
