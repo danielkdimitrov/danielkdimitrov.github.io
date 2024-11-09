@@ -88,10 +88,9 @@ redirect_from:
 
 ## 🔬 Ongoing Research Projects
 
-- Climate-linked securities (w/ D. Broeders & N. Verhoeven)
-- Climate risk and ambiguity: stress-testing the financial sector (w/ Sw. van Wijnbergen)
+- Climate risk: stress-testing the financial sector (w/ Sw. van Wijnbergen)
 - Expected Equal Impact for Capital Buffers Calibration: Market-Based Approach (w/ Sw. van Wijnbergen)
-- Financial Fragility Measurement with Endogenous Group Assignment (w/J. Kakes & M. Bun)
+- Financial Fragility Measurement (w/J. Kakes & M. Bun)
 - Untangling Illiquidity: Strategic Asset Allocation with Private Assets
 
 ---
