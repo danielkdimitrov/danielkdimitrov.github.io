@@ -24,6 +24,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4788392)
 
 ## 📝 Working Papers (2023-24)
 
+- **Climate-Linked Bonds** (w/ D. Broeders and N. Verhoeven)[View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013097)
 - **Macroprudential Regulation: A Risk Management Approach** (with Sweder van Wijnbergen). [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349908), [Code](https://github.com/danielkdimitrov/systemicRiskBuffers)
 - **Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the European Banking Sector** (with Sweder van Wijnbergen). [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382033), [Slides](https://github.com/danielkdimitrov/slideDecks/blob/main/DanielDmitrov_SystemicRisk_2023_ESCB_FS.pdf)
 - **Intergenerational Risk Sharing with Market Liquidity Risk** (with Sweder van Wijnbergen). [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4084778), [Slides](https://github.com/danielkdimitrov/irs/blob/main/Intergenerational_Risk_Sharing___Slides__TI_.pdf)
@@ -32,10 +33,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4788392)
 ---
 
 ## 🚀 Ongoing Projects
-
-- **Climate-Linked Bonds** (w/ D. Broeders and N. Verhoeven)
-
-	*We argue that climate-linked bonds issued by governments or supranational organisations are critical for transitioning to a net-zero economy. These bonds adjust their pay-off based on climate-related variables such as average land temperature, greenhouse gas concentrations, or water levels. This adjustment mechanism provides investors with an opportunity to hedge against long-term climate risks, while signaling government commitment to early-stage climate action and incentivizing robust climate policies. Furthermore, the price differential between climate-linked and nominal bonds offers insights into market expectations regarding climate risks. In this paper, we propose the concept of climate-linked bonds and present a rationale for their issuance by governments. To support this, we introduce a novel model of climate hedging, outlining the factors affecting supply and demand for climate hedges, and justify the creation of these bonds.*
 
 - **Strategic Asset Allocation with Private Assets: Untangling Illiquidity**. [Draft available upon request] 
 
