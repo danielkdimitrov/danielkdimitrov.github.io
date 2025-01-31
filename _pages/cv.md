@@ -86,15 +86,6 @@ redirect_from:
 
 ---
 
-## 🔬 Ongoing Research Projects
-
-- Climate risk: stress-testing the financial sector (w/ Sw. van Wijnbergen)
-- Expected Equal Impact for Capital Buffers Calibration: Market-Based Approach (w/ Sw. van Wijnbergen)
-- Financial Fragility Measurement (w/J. Kakes & M. Bun)
-- Untangling Illiquidity: Strategic Asset Allocation with Private Assets
-
----
-
 ## 🎤 Seminar Discussant
 
 - **VU Amsterdam**, Empirical Asset Pricing Meeting 2023 (Asset Allocation and Returns in the Portfolios of the Wealthy, Cynthia Mei Balloch et al.)

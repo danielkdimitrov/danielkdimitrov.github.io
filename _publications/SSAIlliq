@@ -2,8 +2,15 @@
 title: "Strategic Asset Allocation with Private Assets: Untangling Illiquidity"
 collection: publications
 permalink: /publication/SSAIlliq
-excerpt: 'We model the optimal asset allocation with illiquidity in the form of trading uncertainty. We apply the model to the strategic allocation problem that long-term investors typically face, and find that if the investor cannot trade the asset over five years on average, the welfare loss is about 2\% relative to an equivalent completely liquid mix. Still, adding to the strategic mix private asset classes such as hedge funds, private equity, direct real estate, or infrastructure, for which secondary markets do not exist or are too frail, increases significantly the investor's welfare relative to a traditional equity-bonds allocation.'
-date: 2022-04-27
+excerpt: 'This paper examines the asset allocation problem faced by long-term investors seeking exposure to illiquid private assets. Liquidity uncertainty hampers continuous rebalancing and withdrawals, while illiquidity risk premia can lead to unintended overallocation during extended periods of asset lock-ups, increasing the variability of portfolio consumption and shrinking investor welfare. Using a dynamic allocation model calibrated on analyst-based capital market expectations, I find that while adding private assets to the investment universe may offer benefits, ignoring illiquidity in the portfolio construction process leads to substantial welfare losses.'
+date: 2025-01-31
 ---
-We model the optimal asset allocation with illiquidity in the form of trading uncertainty. We apply the model to the strategic allocation problem that long-term investors typically face, and find that if the investor cannot trade the asset over five years on average, the welfare loss is about 2\% relative to an equivalent completely liquid mix. Still, adding to the strategic mix private asset classes such as hedge funds, private equity, direct real estate, or infrastructure, for which secondary markets do not exist or are too frail, increases significantly the investor's welfare relative to a traditional equity-bonds allocation.
+🐍 This paper examines the asset allocation problem faced by long-term investors seeking exposure to illiquid private assets. Liquidity uncertainty hampers continuous rebalancing and withdrawals, while illiquidity risk premia can lead to unintended overallocation during extended periods of asset lock-ups, increasing the variability of portfolio consumption and shrinking investor welfare. Using a dynamic allocation model calibrated on analyst-based capital market expectations, I find that while adding private assets to the investment universe may offer benefits, ignoring illiquidity in the portfolio construction process leads to substantial welfare losses.
 
+🚀 Key takeaways: 
+
+- Long-term investors in private asset classes face the risk that asset illiquidity may limit portfolio withdrawals and rebalancing over time.
+- This paper provides a dynamic portfolio choice model, incorporating liquidity uncertainty for private asset classes. The mode is calibrated to publicly available Capital Market Assumptions issued by JP Morgan.
+- I find that while illiquid private assets can enhance investor welfare in certainty equivalent terms, the benefits are significantly tempered when liquidity risks are factored in.
+- Ignoring illiquidity during the portfolio construction phase results in overallocation to private assets and substantial welfare losses.
+- A fast, tractable numerical algorithm for solving dynamic portfolio optimization problems involving illiquid assets is also introduced.
