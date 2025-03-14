@@ -6,7 +6,7 @@ excerpt: 'Climate-linked bonds, issued by governments and supranational organiza
 date: 2025-01-31
 paperurl: 'https://ssrn.com/abstract=5091140'
 ---
-ðŸ Climate-linked bonds are an innovative financial tool designed to address the growing challenges of climate change. These bonds, ideally issued by governments and supranational organizations, adjust their payouts based on measurable climate variables, such as average temperatures or greenhouse gas (GHG) concentrations. By directly linking financial returns to climate outcomes, climate-linked bonds provide a strong incentive for issuers to align their actions with climate change mitigation goals. The instrument not only signals a government’s commitment to addressing climate risks but also offers investors a mechanism to hedge against the long-term economic consequences of climate change.
+🐍 Climate-linked bonds are an innovative financial tool designed to address the growing challenges of climate change. These bonds, ideally issued by governments and supranational organizations, adjust their payouts based on measurable climate variables, such as average temperatures or greenhouse gas (GHG) concentrations. By directly linking financial returns to climate outcomes, climate-linked bonds provide a strong incentive for issuers to align their actions with climate change mitigation goals. The instrument not only signals a government’s commitment to addressing climate risks but also offers investors a mechanism to hedge against the long-term economic consequences of climate change.
 
 This paper introduces an asset pricing model for climate-linked bonds, demonstrating the growing demand for these instruments amid anticipated long-term climate risks. We evaluate the factors that facilitate risk-sharing and highlight how these bonds provide favorable  terms to counterparties willing to assume climate risks, while offering long-term hedging opportunities to those seeking protection against such risks.
 
@@ -20,7 +20,9 @@ Despite their benefits, implementing climate-linked bonds comes with challenges.
 
 In summary, we argue that climate-linked bonds represent a critical innovation in embedding climate risk into economic and financial systems. By aligning financial incentives with climate action, they encourage immediate efforts to mitigate GHG emissions while promoting resilience against long-term climate challenges. Their potential to transform both public and private approaches to climate risk makes them a pivotal instrument in the  transition to a sustainable future.
 
-ðŸš€ Key takeaways: 
+[Download paper here](https://ssrn.com/abstract=5091140)
+
+🚀 Key takeaways: 
 
 - In this paper, we introduce a novel financial instrument, climate-linked bonds, whose payoffs are adjusted based on climate-related variables (e.g., temperature, climate emissions, water levels, etc.), enabling investors to hedge against long-term climate risks.
 

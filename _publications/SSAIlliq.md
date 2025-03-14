@@ -8,6 +8,9 @@ paperurl: 'https://ssrn.com/abstract=5118823'
 ---
 🐍 This paper examines the asset allocation problem faced by long-term investors seeking exposure to illiquid private assets. Liquidity uncertainty hampers continuous rebalancing and withdrawals, while illiquidity risk premia can lead to unintended overallocation during extended periods of asset lock-ups, increasing the variability of portfolio consumption and shrinking investor welfare. Using a dynamic allocation model calibrated on analyst-based capital market expectations, I find that while adding private assets to the investment universe may offer benefits, ignoring illiquidity in the portfolio construction process leads to substantial welfare losses.
 
+[Download paper here](https://ssrn.com/abstract=5118823)
+
+
 🚀 Key takeaways: 
 
 - Long-term investors in private asset classes face the risk that asset illiquidity may limit portfolio withdrawals and rebalancing over time.
