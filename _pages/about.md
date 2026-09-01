@@ -42,9 +42,9 @@ Peer reviewer for the *Financial Analyst Journal*, *Journal of Financial Stabili
 
 I'm also a regular discussant in worshops and seminars 
 
-- **Asset Allocation and Returns in the Portfolios of the Wealthy** by Cynthia Mei Balloch and Julian Richers at the [Empirical Asset Pricing Meeting, 2023](https://tinbergen.nl/event/2023/05/19/12090/empirical-asset-pricing-meeting)
+- [**Asset Allocation and Returns in the Portfolios of the Wealthy**](https://drive.google.com/file/d/1Su5a9vYPQePwBvSOltdCtO_NxuDzOGMe/view) by Cynthia Mei Balloch and Julian Richers at the [Empirical Asset Pricing Meeting, 2023](https://tinbergen.nl/event/2023/05/19/12090/empirical-asset-pricing-meeting)
 
-- **Non-bank lending during crises** by I\~{n}aki Aldasoro (BIS), Sebastian Doerr (BIS), Haonan Zhou at [Central Bank of Ireland, Conference on Financial stability policies in a changing lending landscape, 2023](https://www.centralbank.ie/docs/default-source/tns/events/conference-on-macro-finance-and-financial-stability-policies/conference-on-financial-stability-policies-agenda-5.pdf?sfvrsn=8f069d1d_10)
+- [**Non-bank lending during crises**](https://academic.oup.com/rof/article-abstract/29/6/1809/8277895) by Iñaki Aldasoro, Sebastian Doerr, Haonan Zhou at [Central Bank of Ireland, Conference on Financial stability policies in a changing lending landscape, 2023](https://www.centralbank.ie/docs/default-source/tns/events/conference-on-macro-finance-and-financial-stability-policies/conference-on-financial-stability-policies-agenda-5.pdf?sfvrsn=8f069d1d_10)
 
 - **Sticky Deposits and the Bank Lending Channel of Monetary Policy** by Sijmen Rijks at the ***Benelux banking research day 2026***
 
