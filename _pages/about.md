@@ -17,11 +17,10 @@ redirect_from:
 ---
 ## Peer-reviewed publications
 
-- **Macroprudential Regulation: A Risk Management Approach** (with Sweder van Wijnbergen) 🛠️ [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6075881), [Code](https://github.com/danielkdimitrov/systemicRiskBuffers) 
-	- Forthcoming 2026 at the *Journal of Financial Stability*. 
+- **Macroprudential Regulation: A Risk Management Approach** (with Sweder van Wijnbergen) at the *Journal of Financial Stability* 🛠️ [View Paper](https://www.sciencedirect.com/science/article/pii/S1572308926000914), [Code](https://github.com/danielkdimitrov/systemicRiskBuffers)  
 	- Prensetend at the conferences *BIS/CEPR Simplifying banking regulation and supervision without sacrificing safety 2026; ECB Bank Supervision Research Seminar Series; IRMC; IFABS; ESCB Research Cluster on Financial Stability; MPPG Wroking Group Seminar Series; Univerisity of Amsterdam; De Nederlandsche Bank*
 
-- **Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the European Banking Sector** (with Sweder van Wijnbergen) 🛠️ [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382033), 💡[Slides](https://github.com/danielkdimitrov/slideDecks/blob/main/DanielDmitrov_SystemicRisk_2023_ESCB_FS.pdf). 
+- **Quantifying Systemic Risk in the Presence of Unlisted Banks: Application to the European Banking Sector** (with Sweder van Wijnbergen) 🛠️ [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7433843), 💡[Slides](https://github.com/danielkdimitrov/slideDecks/blob/main/DanielDmitrov_SystemicRisk_2023_ESCB_FS.pdf). 
 	- Forthcoming 2027 at the *International Journal of Central Banking*. 
 	- Presented at *DNB Seminar Series; University of Amsterdam; IFABS; ESCB Financial Stability Research Cluster; EuroSystem's MPAG workshop; Bulgarian Council for Economic Analyses Annual Conference, Bank of Finland RiskLab Conference on AI and Systemic Risk Analytics*
 
@@ -32,17 +31,20 @@ redirect_from:
 ---
 
 ## 📝 Current Working Papers
+
+- **Systemic at Home: the Persistence of a Too-Big-to-Fail Premium in Europe**, [DNB Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7396078). *Presented at IFABS 2026*
+
 - **Time-Consistent Risk Sharing under Ambiguity**, [Netspar Working Paper](https://www.netspar.nl/wp-content/uploads/gravity_forms/429-08688e63a69b1fa0132d97715fee501c/2025/07/IRS_ambiguity.pdf). *Presented at Netspar Pension Day 2025*
 
 - **Strategic Asset Allocation with Private Assets: Untangling Illiquidity**. 🛠️ [DNB Working Paper](https://ssrn.com/abstract=5615386), 💡 [Slides](https://github.com/danielkdimitrov/portfolioChoiceIlliq/blob/main/Slides_Portfolio_Choice_with_Liquidity.pdf) , ➡️ [Python Code](https://github.com/danielkdimitrov/portfolioChoiceIlliq) Submitted. *Presented at Market Microstructure Summer School Stochholm 2021; QFFE 2024; MAF 2024; Netspar 2024*
 
-- **Climate-Linked Bonds** (w/ D. Broeders and N. Verhoeven) 🛠️ [ECB Working Paper](https://ssrn.com/abstract=5091140). Submitted. Presented at 2025 ESM–SUERF–Bruegel Workshop, 2025 Maastricht University Workshop on Finance for a (Climate) Resilient Economy, the 2025 Energy and Climate Economics and Business Days at the University of Groningen, EGU25, Netspar 2025, 2025 Dutch Sustainable Finance Network, 2025 HEC-HKUST Sustainable Finance Workshop Paris
+- **Climate-Linked Bonds** (w/ D. Broeders and N. Verhoeven) 🛠️ [ECB Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7276391). Submitted. Presented at 2025 ESM–SUERF–Bruegel Workshop, 2025 Maastricht University Workshop on Finance for a (Climate) Resilient Economy, the 2025 Energy and Climate Economics and Business Days at the University of Groningen, EGU25, Netspar 2025, 2025 Dutch Sustainable Finance Network, 2025 HEC-HKUST Sustainable Finance Workshop Paris
 
 ---
 
 ## 📝 Peer review 
 
-Peer reviewer for the *Financial Analyst Journal*, *Journal of Financial Stability*, *Latin American Journal of Central Banking*, *Journal of Risk Management in Financial Institutions*
+Peer reviewer for the *Financial Analyst Journal*, *Journal of Financial Stability*, *Latin American Journal of Central Banking*, *Journal of Risk Management in Financial Institutionscl
 
 I'm also a regular discussant in worshops and seminars 
 
