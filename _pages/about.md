@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal page. I'm a postdoctoral researcher at the [Research Centre for Longevity Risk](https://rclr.nl/) at the University of Amsterdam. My research covers areas in asset pricing, macro-finance, climate risk, financial stability, and overall risk management. 
+👋 Welcome to my personal page. I'm a postdoctoral researcher at the [Research Centre for Longevity Risk](https://rclr.nl/) at the University of Amsterdam. My research covers areas in asset pricing, macro-finance, climate risk, financial stability, and overall risk management.  
 
 📧 You can reach me at [daniel.k.dimitrov@gmail.com](mailto:daniel.k.dimitrov@gmail.com).
 
